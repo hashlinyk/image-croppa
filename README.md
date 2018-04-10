@@ -1,8 +1,8 @@
-# my-vue-croppa
+# image-croppa
 
 > 基于vue-croppa结合项目需求二次开发而成，扩展了裁剪压缩实时预览、自由调节图片输出尺寸等功能
 
-在线查看[DEMO](http://works.linyk.me/my_croppa/)
+在线查看[DEMO](http://works.linyk.me/image_croppa/)
 
 ## Build Setup
 
